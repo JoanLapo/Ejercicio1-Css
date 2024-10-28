@@ -1,0 +1,14 @@
+h1 {color:aliceblue}
+h1 {font-family: cursive;}
+h1 {text-align: center;}
+body {
+    height: 100vh;
+    background-image: url(fondo-escritorio-moderno-vector-diseno-azul-geometrico_53876-135923.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+body {
+    text-align: center;
+}
